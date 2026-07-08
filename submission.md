@@ -1,5 +1,7 @@
 # Mixtape — Codebase Map & Bug Fixes
 
+![git log showing the three bug fix commits on bugfix/mixtape](screenshot.png)
+
 ## AI usage
 
 I used Claude as as a code explainer after finding things myself and as a helper when I struggled to find things for myself. This is an honest account of a workflow where AI did most of the file reading and tracing, with verification and decision points built in along the way rather than only at the end.
